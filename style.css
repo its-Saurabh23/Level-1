@@ -3,17 +3,6 @@
     margin: 0;
     padding: 0;
   }
-  body {
-    background-color: #f6f6f6;
-    color: #222;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
-  }
-
   /*style.css */
 * {
     box-sizing: border-box;
@@ -22,6 +11,7 @@
   }
   
   body {
+    background-image: url("images/mian.jpg");
     background-color:#f6f6f6;
     color: #222;
     font-size: 1rem;
@@ -90,7 +80,7 @@
     width: 46%;
   }
   option {
-    background-color: #3c39e7;
+    background-color: black;
     color: #f6f6f6;
   }
   #convert-btn {
